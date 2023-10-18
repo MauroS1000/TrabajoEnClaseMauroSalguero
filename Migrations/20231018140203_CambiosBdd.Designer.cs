@@ -12,7 +12,7 @@ using TrabajoEnClaseMauroSalguero.Data;
 namespace TrabajoEnClaseMauroSalguero.Migrations
 {
     [DbContext(typeof(TrabajoEnClaseMauroSalgueroContext))]
-    [Migration("20231018135225_CambiosBdd")]
+    [Migration("20231018140203_CambiosBdd")]
     partial class CambiosBdd
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
